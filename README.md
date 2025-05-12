@@ -1,1 +1,3 @@
 # Lab 7 - Starter
+Anna Covaliov
+https://annacov783.github.io/Lab6_Starter/?imgSrc=http%3A%2F%2F127.0.0.1%3A5500%2Fassets%2Fimages%2F3_ingredient-ghost-halloween-cookies.jpeg&imgAlt=3+Ingredient+Easy+Ghost+Halloween+Cookies&titleTxt=3+Ingredient+Easy+Ghost+Halloween+Cookies&titleLnk=https%3A%2F%2Fbutterwithasideofbread.com%2Feasy-ghost-halloween-cookies%2F&rating=0&numRatings=0&organization=Butter+with+a+Side+of+Bread&lengthTime=10+min&ingredients=White+almond+bark%2C+mini+chocolate+chips+
