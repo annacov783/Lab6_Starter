@@ -88,7 +88,7 @@ function initFormHandler() {
 			recipeObject[key] = value;
 		}
 	// B6. TODO - Create a new <recipe-card> element
-		const recipeCard = document.creatElement("recipe-card");
+		const recipeCard = document.createElement("recipe-card");
 	// B7. TODO - Add the recipeObject data to <recipe-card> using element.data
 		recipeCard.data = recipeObject;
 	// B8. TODO - Append this new <recipe-card> to <main>
@@ -109,7 +109,7 @@ function initFormHandler() {
 		localStorage.setItem("recipes", JSON.stringify(recipes));
     });
 	// B10. TODO - Get a reference to the "Clear Local Storage" button
-	const clearBttn = document.getElementsByClassName("danger");
+	const clearBttn = document.querySelector(".danger");
 	// B11. TODO - Add a click event listener to clear local storage button
 	clearBttn.addEventListener("click", (event) => {
 	// Steps B12 & B13 will occur inside the event listener from step B11
